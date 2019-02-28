@@ -1,0 +1,40 @@
+{
+  "name": "with-kea",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^3.9.2",
+    "babel-plugin-transform-decorators-legacy": "^1.3.5",
+    "immutable": "^4.0.0-rc.12",
+    "isomorphic-unfetch": "^3.0.0",
+    "kea": "^0.28.6",
+    "kea-saga": "^0.3.5",
+    "next": "^7.0.2",
+    "next-redux-wrapper": "2.0.0",
+    "prop-types": "^15.6.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-jss": "^8.6.1",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1",
+    "redux-saga": "^1.0.1",
+    "reselect": "^4.0.0"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-proposal-decorators": "^7.3.0"
+  },
+  "jshintConfig": {
+    "eqeqeq": true,
+    "indent": 2,
+    "esnext": true,
+    "asi": true,
+    "maxlen": 80,
+    "singleGroups": true,
+    "unused": true
+  }
+}

@@ -1,0 +1,27 @@
+#+TITLE: Perfect Project
+#+AUTHOR: Matt Roman
+#+TODO: TODO DOING DONE
+
+* UI Project
+** Chord Changes
+*** DONE get decroator syntax working
+*** DONE create a chord changes page
+*** DONE add change list to changes page
+*** DONE hook changes page up to kea
+*** DONE add a new combination modal to changes page
+*** DONE Implement Sagas
+*** TODO hook chord changes up to data server
+*** TODO make combination loading isomorphic
+*** TODO add chord change practice
+*** DONE add material ui
+
+    
+* Data Server
+** Chord Changes
+*** TODO create combinations route
+*** TODO add mock data to combinations route
+*** TODO store combinations in an agent
+
+:DRAWER:
+this is data in a drawer
+:END:
